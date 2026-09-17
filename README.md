@@ -15,6 +15,7 @@ Analyzed three decades of Ghana's trade performance using World Development Indi
 * Established a moderate negative correlation (-0.44) between trade balance and GDP growth.
   
 ## Dashboard Preview
+![Dashboard](trade_visual.png)
 
 ## Deliverables
 * Interactive Power BI Dashboard
